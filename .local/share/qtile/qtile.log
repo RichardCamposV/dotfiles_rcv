@@ -1,0 +1,30 @@
+2022-09-14 18:17:56,134 ERROR libqtile net.py:poll():L167 Net: Caught Exception:
+'wlo1'
+2022-09-14 18:17:56,147 WARNING libqtile base.py:on_done():L637 poll() returned None, not rescheduling
+2022-09-14 18:54:26,829 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 18:54:50,869 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:00:07,346 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:00:09,333 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:00:09,748 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:00:09,973 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:00:10,195 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:00:10,389 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:15:54,993 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:15:57,094 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:15:57,383 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:15:57,569 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:16:03,249 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:16:03,474 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:16:03,657 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:16:03,843 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:16:04,061 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:16:04,325 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:18:27,656 ERROR libqtile manager.py:cmd_spawn():L1143 couldn't find `brave`
+2022-09-14 19:18:34,217 WARNING libqtile lifecycle.py:_atexit():L33 Restarting Qtile with os.execv(...)
+2022-09-14 19:18:34,785 ERROR libqtile net.py:poll():L167 Net: Caught Exception:
+'wlo1'
+2022-09-14 19:18:34,798 WARNING libqtile base.py:on_done():L637 poll() returned None, not rescheduling
+2022-09-14 19:39:12,754 WARNING libqtile lifecycle.py:_atexit():L33 Restarting Qtile with os.execv(...)
+2022-09-14 19:55:12,985 WARNING libqtile lifecycle.py:_atexit():L37 Qtile will now terminate
+2022-09-14 20:18:46,501 WARNING libqtile lifecycle.py:_atexit():L37 Qtile will now terminate
+2022-09-14 20:49:28,143 WARNING libqtile lifecycle.py:_atexit():L33 Restarting Qtile with os.execv(...)

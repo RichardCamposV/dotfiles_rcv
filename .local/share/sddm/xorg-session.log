@@ -1,0 +1,36 @@
+[ 09/14/2022 20:18:53.227 parse_config_libconfig WARN ] The refresh-rate option has been deprecated. Please remove it from your configuration file. If you encounter any problems without this feature, please feel free to open a bug report
+
+** (xfce4-power-manager:12760): WARNING **: 20:18:53.446: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:12760): WARNING **: 20:18:53.446: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+
+(xfce4-power-manager:12760): xfce4-power-manager-WARNING **: 20:18:53.446: Unable to connect to session manager : Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
+
+(xfce4-power-manager:12760): libnotify-WARNING **: 20:18:53.474: Failed to connect to proxy
+
+(xfce4-power-manager:12760): GLib-GObject-WARNING **: 20:18:53.485: ../glib/gobject/gsignal.c:2613: signal 'Changed' is invalid for instance '0x55cb52e5d0a0' of type 'GDBusProxy'
+
+** (xfce4-clipman:12761): WARNING **: 20:18:53.520: Unable to register GApplication: An object is already exported for the interface org.gtk.Application at /org/xfce/clipman
+
+(xfce4-clipman:12761): GLib-GIO-CRITICAL **: 20:18:53.520: g_application_get_is_remote: assertion 'application->priv->is_registered' failed
+
+(xfce4-clipman:12761): GLib-WARNING **: 20:18:53.520: g_set_application_name() called multiple times
+
+(xfce4-power-manager:12760): xfce4-power-manager-WARNING **: 20:18:53.588: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:12760): WARNING **: 20:18:53.689: could not get output property
+
+(xfce4-power-manager:12760): xfce4-power-manager-WARNING **: 20:18:53.697: It seems the kernel brightness switch handling value was not restored properly on exit last time, xfce4-power-manager will try to restore it this time.
+xfce4-power-manager-Message: 20:18:53.727: Set kernel brightness switch to 0
+
+** (volumeicon:12755): WARNING **: 20:18:54.138: Binding 'AudioRaiseVolume' failed!
+Failed to bind AudioRaiseVolume
+
+** (volumeicon:12755): WARNING **: 20:18:54.138: Binding 'AudioLowerVolume' failed!
+Failed to bind AudioLowerVolume
+
+** (volumeicon:12755): WARNING **: 20:18:54.138: Binding 'AudioMute' failed!
+Failed to bind AudioMute

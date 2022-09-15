@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/richard/Downloads/UbuntuMono.zip" added="2022-09-14T21:01:42.253768Z" modified="2022-09-14T21:01:42.253798Z" visited="2022-09-14T21:01:42.253772Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T21:01:42.253780Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/richard/Downloads/Agave.zip" added="2022-09-14T21:02:36.758844Z" modified="2022-09-14T21:02:36.758865Z" visited="2022-09-14T21:02:36.758847Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T21:02:36.758854Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/richard/Downloads/CascadiaCode.zip" added="2022-09-14T21:03:19.741575Z" modified="2022-09-14T21:03:19.741608Z" visited="2022-09-14T21:03:19.741578Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T21:03:19.741599Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/richard/Downloads/CodeNewRoman.zip" added="2022-09-14T21:03:28.692757Z" modified="2022-09-14T21:03:28.692778Z" visited="2022-09-14T21:03:28.692759Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T21:03:28.692766Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/richard/Downloads/FiraCode.zip" added="2022-09-14T21:04:04.802644Z" modified="2022-09-14T21:04:04.802685Z" visited="2022-09-14T21:04:04.802647Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T21:04:04.802661Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/richard/Downloads/Mononoki.zip" added="2022-09-14T21:04:50.750248Z" modified="2022-09-14T21:04:50.750271Z" visited="2022-09-14T21:04:50.750250Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T21:04:50.750259Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/richard/Downloads/JetBrainsMono.zip" added="2022-09-14T21:04:52.085977Z" modified="2022-09-14T21:04:52.086010Z" visited="2022-09-14T21:04:52.085980Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T21:04:52.085991Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/richard/Downloads/candy-icons.tar.xz" added="2022-09-14T22:46:51.578073Z" modified="2022-09-14T22:46:51.578092Z" visited="2022-09-14T22:46:51.578077Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T22:46:51.578082Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/richard/Downloads/Material-Black-Cherry-3.36_1.9.3.zip" added="2022-09-14T23:09:41.580202Z" modified="2022-09-14T23:09:41.580222Z" visited="2022-09-14T23:09:41.580208Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-14T23:09:41.580213Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
